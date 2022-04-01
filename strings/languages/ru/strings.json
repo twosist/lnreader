@@ -1,40 +1,40 @@
 {
-  "library": "Library",
+  "library": "Библиотека",
   "libraryScreen": {
-    "searchbar": "Search library",
-    "empty": "Your library is empty. Add series to your library from Browse."
+    "searchbar": "Поиск в библиотека",
+    "empty": "Ваша библиотека пуста. Добавьте серию в свою библиотеку из меню Обзор."
   },
-  "updates": "Updates",
+  "updates": "Обновления",
   "updatesScreen": {
-    "searchbar": "Search updates"
+    "searchbar": "Поиск обновлений"
   },
-  "history": "History",
+  "history": "История",
   "historyScreen": {
-    "searchbar": "Search history"
+    "searchbar": "Поиск в истории"
   },
-  "browse": "Browse",
+  "browse": "Обзор",
   "browseScreen": {
-    "searchbar": "Search sources"
+    "searchbar": "Поиск в источниках"
   },
   "novelScreen": {
-    "addToLibaray": "Add to library",
-    "inLibaray": "In library",
-    "continueReading": "Continue reading",
-    "chapters": "chapters",
-    "migrate": "Migrate",
+    "addToLibaray": "Добавить в библиотеку",
+    "inLibaray": "В библиотеке",
+    "continueReading": "Продолжить чтение",
+    "chapters": "главы",
+    "migrate": "Перенос",
     "bottomSheet": {
-      "filter": "Filter",
-      "sort": "Sort",
-      "display": "Display"
+      "filter": "Фильтр",
+      "sort": "Сортировка",
+      "display": "Вид"
     }
   },
-  "more": "More",
+  "more": "Еще",
   "moreScreen": {
-    "settings": "Settings",
+    "settings": "Настройки",
     "settingsScreen": {
-      "generalSettings": "General",
+      "generalSettings": "Основные",
       "generalSettingsScreen": {},
-      "readerSettings": "Reader",
+      "readerSettings": "Чтение",
       "readerSettingsScreen": {}
     }
   }
